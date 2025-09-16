@@ -25,9 +25,8 @@ You can attend this event both in-person and virtually!
 
 Limited spots available for in-person event.
 
-[Pre-register here](https://forms.gle/Vpe2GybGMAv2w8CNA) <p align="right">
-  <img src="Images/Badge.png" alt="Qiskit Fall Fest Logo" width="120" />
-</p>
+[Pre-register here](https://forms.gle/Vpe2GybGMAv2w8CNA) 
+
 
 ## Event Info
 📅 Date: 29th October 2025
