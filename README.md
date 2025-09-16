@@ -1,7 +1,6 @@
 # Qiskit-Fall-Fest-Monash 2025
 <p align="right">
-  <img src="images/qiskitfallfest-logo.png" alt="Qiskit Fall Fest Logo" width="120" />
-  <img src="images/monash-logo.png" alt="Monash University Logo" width="120" />
+  <img src="images/Badge.png" alt="Qiskit Fall Fest Logo" width="120" />
 </p>
 
 Welcome to the Qiskit Fall(Spring) Fest at Monash Uni! 
