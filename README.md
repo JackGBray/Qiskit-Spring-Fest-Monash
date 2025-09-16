@@ -30,6 +30,12 @@ Limited spots available for in-person event.
 </p>
 
 ## Event Info
+📅 Date: 29th October 2025
+
+🕙 Time: 10:00 AM – 3:30 PM
+
+📍 Location: Monash Clayton Campus, Room to be confirmed closer to the event
+
 👉 What to bring:
 
 - A laptop (for coding sessions)
@@ -38,11 +44,7 @@ Limited spots available for in-person event.
 
 No prior quantum knowledge is expected — we’ll guide you from the basics all the way to running your first circuits on a real quantum computer.
 
-📅 Date: 29th October 2025
 
-🕙 Time: 10:00 AM – 3:30 PM
-
-📍 Location: Monash Clayton Campus, Room to be confirmed closer to the event
 
 ## Event Agenda / Schedule
 
