@@ -1,11 +1,9 @@
-# Qiskit-Fall-Fest-Monash 2025
-<p align="right">
-  <img src="images/Badge.png" alt="Qiskit Fall Fest Logo" width="120" />
-</p>
+# Qiskit-Fall-Fest-Monash 2025 
+
 
 Welcome to the Qiskit Fall(Spring) Fest at Monash Uni! 
 
-This repository is for materials and registration for the event.
+This repository is for materials and registration for the event. 
 
 ## What is Fall Fest?
 Qiskit Fall Fest is a global series of quantum computing events run each year by students and volunteers around the world, in collaboration with IBM Quantum.
@@ -27,7 +25,9 @@ You can attend this event both in-person and virtually!
 
 Limited spots available for in-person event.
 
-[Pre-register here](https://forms.gle/Vpe2GybGMAv2w8CNA)
+[Pre-register here](https://forms.gle/Vpe2GybGMAv2w8CNA) <p align="right">
+  <img src="Images/Badge.png" alt="Qiskit Fall Fest Logo" width="120" />
+</p>
 
 ## Event Info
 👉 What to bring:
