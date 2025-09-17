@@ -1,4 +1,4 @@
-# Qiskit-Fall-Fest-Monash 2025 
+# Qiskit-Fall-Fest-Monash 2025 ([pre-registration](https://forms.gle/Vpe2GybGMAv2w8CNA) )
 
 
 Welcome to the Qiskit Fall(Spring) Fest at Monash Uni! 
