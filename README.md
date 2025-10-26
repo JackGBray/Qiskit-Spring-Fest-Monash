@@ -78,11 +78,12 @@ No prior quantum knowledge is expected — we’ll guide you from the basics all
 
 ## Notebooks & Pre-work (optional but recommended)
 
-We’ll use three starter notebooks on the day. If you’d like a head start, feel free to open them in advance:
+We’ll use three or more starter notebooks on the day. If you’d like a head start, feel free to open them in advance:
 
-- **Qiskit Fundamentals Lab** — [Notebook link](#)  
-- **Qiskit: Intro to Quantum Computing** — [Notebook link](#)  
-- **Example: Implementing a Quantum Algorithm** — [Notebook link](#)
+- **Quantum Hello World!** - [[Notebook link]](https://github.com/JackGBray/Qiskit-Spring-Fest-Monash/blob/main/hello-world.ipynb)
+- **Qiskit Fundamentals Lab** — [Notebook link](https://github.com/JackGBray/Qiskit-Spring-Fest-Monash/blob/main/qiskit_fundamentals_lab-2.ipynb)  
+- **Qiskit: Intro to Quantum Computing** — [Notebook link](https://github.com/JackGBray/Qiskit-Spring-Fest-Monash/blob/main/divincenzo_criteria_lab-2.ipynb)  
+- **Example: Implementing a Quantum Algorithm** — [Notebook link](https://github.com/JackGBray/Qiskit-Spring-Fest-Monash/blob/main/chsh-inequality.ipynb)
 
 We’ll demonstrate everything in **qBraid**, an online environment with Qiskit preinstalled.  
 Set up ahead of time using the **IBM Quantum + qBraid setup guide**: [link](https://quantum.cloud.ibm.com/docs/en/guides/online-lab-environments).  
