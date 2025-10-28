@@ -100,7 +100,7 @@ qBraid gives everyone **~10 minutes of free IBM Quantum compute time**, so getti
 ## Online Access
 
 If you’re attending remotely, **webinar links** will be posted here and/or sent to your registration email closer to the date.
-
+[https://monash.zoom.us/j/85276104644?pwd=KHa9d54NEQQ7YT6xnv1cYGtWJsZJZb.1](https://monash.zoom.us/j/85276104644?pwd=KHa9d54NEQQ7YT6xnv1cYGtWJsZJZb.1)
 
 
 
